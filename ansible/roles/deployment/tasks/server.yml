@@ -1,4 +1,4 @@
-- name: Add group "calvine" to remote server
+- name: Add group "calvin" to remote server
   remote_user: ubuntu
   become: yes
   become_method: sudo
