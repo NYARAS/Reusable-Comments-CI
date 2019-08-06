@@ -1,0 +1,14 @@
+[report]
+show_missing = True
+omit =
+    *apps.py,
+    *migrations/*,
+    *settings*,
+    *tests/*,
+    *wsgi.py,
+    manage.py
+    setup.py
+    venv*
+    *.tox*
+   
+    
