@@ -7,7 +7,7 @@
 Calvine Comments
 A reusable Django & Javascript app (jQuery) for simply implementing a comments feed on any url(s).
 
-Quick starts
+Quick start
 Install Calvine Comments & Dependancies:
 
 pip install django-calvo-comments django djangorestframework django-cors-headers
