@@ -1,5 +1,5 @@
 [web]
-www.13.59.0.201  ansible_user=ubuntu
+wwww.calvineotieno.duckdns.org  ansible_user=ubuntu
 
 [web:vars]
 ansible_python_interpreter=/usr/bin/python3
