@@ -4,7 +4,7 @@ app_name: calvineComments
 # Deployer User and Groups
 deployer_user: calvine
 deployer_group: calvine
-deployer_mail: calvineotieno010@gmail.com
+deployer_mail: 
 
 # Django admin
 django_user: calvine
@@ -12,8 +12,8 @@ django_mail: calvineotieno010@gmail.com
 
 
 # Github Code's Repo URL
-githubuser: NYARAS
-githubpassword: Calvine2015
+githubuser: 
+githubpassword: 
 
 # App Directory
 app_dir: /home/ubuntu/{{deployer_user}}/{{app_name}}
